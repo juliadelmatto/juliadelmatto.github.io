@@ -1,190 +1,53 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" href="mystyle.css">
+<link rel="stylesheet" href="style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Julia Del Matto</title>
 <style>
-html {
-  scroll-behavior: smooth;
-}
-p {
-  font-size: 20px;
 
-  font-family: Georgia, serif;
-}
-
-
-
- .content{
-    height: auto;
-    margin: 0 auto;
-    overflow:hidden;
- }
-.shape{
-  text-align:center;
-  background-color:rgba(3,78,136,0.7);
-  width:200px;
-  height:60px;
-  line-height:60px;
-  color:white;
-  margin:20px auto;
-  position:relative;
-}
-.shape:before{
-  content:"";
-  width:0px;
-  height:0px;
-  border-top:60px solid rgba(3,78,136,0.7);
-  border-left:60px solid transparent;
-  position:absolute;
-  right:100%;
-  top:0px;
-}
-
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-
-.bottom-right {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-div.relative {
-  position: relative;
-  /*margin-left: 80px;*/
-  margin-top: 200px;
-  margin-right: 380px;
-  width: 500px;
-  height: 200px;
-  
-} 
-
-
-div.absolute {
-  position: absolute;
-  top: 100px;
-  right: 0;
-  left:500px;
-  width: 200px;
-  height: 100px;
-  /*border: 3px solid #73AD21;*/
-}
-li {
-  display: inline;
-}
-li {
-  float: right;
-}
-
-a {
-	color:white;
-  /*display: block;*/
-  padding: 10px;
-  /*background-color: #FFFFFF;*/
-  text-decoration: none;
-
-}
 	</style>
 
-<!-- <center>
-	<a href="about.html">
-<div class="relative"><img src="about.png" width="170">
-</a>
-	<a href="games.html">
-  <div class="absolute"><img src="games.png" width="310"></div>
-</a>
-</div> -->
-
-
-
-
-
-
-
-
+<!-- title section -->
 <div class="container">
   <img src="tvgif2.gif" alt="Snow" style="width:100%;">
   <div class="bottom-left"></div>
   <div class="top-left">Julia Del Matto</div>
-  <div class="top-right"><li><a href="#games">Games</a><a href="#about">About</a>
+  <div class="top-right"><a href="#games">Games</a><a href="#about">About</a>
   </div>
     
   <div class="bottom-right"></div>
   <div class="centered">
-      <a href="#games"><img src="name.png" width = 100% ></a>
-    </div>
+  	<img src="name.png" width = 100% >
+   </div>
 
   
 </div>
 </center>
- <!-- <IMG SRC="tv4.gif"> -->
 
 
-  <h1 id="games" ><center><img src="games.png" style="width:30%;"></center></img></h1>
+<div class = "content" style="background-image:url('pics/blue.png');">
+  <h1 id="games" ><center><img src="pics/gp.png" style="width:30%;"></center></img></h1>
   <br>
-
-<!-- <img src="pics/guests.gif" width = 50% style = "float: right;  margin-right: 15px;">
-  <h1>Eclectic Guests</h1>
-</img> -->
-
-<!-- <div class="container">
-  <img src="pics/guests.gif" alt="Snow" style="width:100%;">
-  <div class="bottom-left"></div>
-  <div class="top-left"></div>
-  <div class="top-right"></div>
-    
-  <div class="bottom-right"></div>
-  <div class="centered"></div>
 </div>
-
- -->
 
 
  <!-- Eclectic Guests -->
 
-  <div class = "content" style="background-image:url('tvgif2.gif');">
+  <div class = "content" style="background-image:url('pics/blue.png');">
 <div>
     <p style="float: right; margin: 10px;" ><img src="pics/guests.gif"  border="10px" style="max-width:100% "></p>
    
-    <br><img src="pics/eclec.png" style="width:22%;"></img><p >Eclectic Guests is an experimental narrative puzzle game about exploring a surreal hotel. Meet guests, explore their rooms and their dreams. </p></p>
+    <br><img src="pics/eclec.png" style="width:22%; padding-left: 30px;"></img><p style="color:white;">Eclectic Guests is an experimental narrative puzzle game about exploring a surreal hotel. Meet guests, explore their rooms and their dreams. </p></p>
 </div>
 </div>
 
 <!-- SwSW -->
+<!-- <div class = "content" style="background-image:url('pics/black.png');"> -->
 <div class = "content" style="background-color:#000000">
 
 <div style="clear: right;">
     <p style="float: left; margin: 10px;"><img src="pics/swsw.gif" style="max-width:100% " border="10px"></p>
-    <br><img src="pics/title.png" style="width:25%;">
+    <br><img src="pics/swswtitle2.png" style="width:25%; padding-left: 10px;">
       <br>
       <br>
       <p style ="margin-left: 100px; color:white;">SWORDSWALLOWER is a psych-goth action platformer where you'll traverse and fight only by throwing a massive enchanted sword. Instead of jumping, you hurl your sword into the environment and pull yourself toward it with deadly speed. Using this weapon, you'll explore labyrinthine, dreamlike metroidvania levels and go toe-to-toe with ferocious opponents.</p>
@@ -193,8 +56,27 @@ a {
       <a href="url" style="color:#FF007B">Play demo here!</a>
 </div>
 </div>
-<div style="clear: right;">
-  <div style="clear: left;">
-<h1 id="about">About</h1>
+
+  
+
+
+<div class = "content" style="background-image:url('pics/night.png');">
+	
+<p style="float: right; margin: 10px;" ><img src="pics/tarot.gif"  border="10px" width = "1000px"></p>
+ <br><img src="pics/tarotttitle.png" style="width:20%;padding-left: 30px;">
+	<p style="color:white">Stuff about tarot project :)</p>
+
+</div>
+
+<div class = "content" style="background-image:url('pics/pink.png');">
+	
+<p style="float: right; margin: 10px;" ><img src="pics/articulate.gif"  border="10px" style="max-width:100% "></p>
+ <br><p style="font-family: 'Kdam Thmor Pro', sans-serif; font-size:70px">Articulate</p>
+	<p style="color:white">Stuff about tarot project :)</p>
+
+</div>
+
+
+<!-- <h1 id="about">About</h1> -->
 
 </html>
