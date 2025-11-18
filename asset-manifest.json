@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.4b5435e8.css",
-    "main.js": "./static/js/main.92af9978.js",
+    "main.css": "./static/css/main.97683599.css",
+    "main.js": "./static/js/main.9cd0d251.js",
     "static/media/tvgif2.gif": "./static/media/tvgif2.d60dcb83fd1048d95f94.gif",
     "static/media/pageofPentacles.png": "./static/media/pageofPentacles.89094a56491bf0602df9.png",
     "static/media/cups66.png": "./static/media/cups66.4f6fcbeba15fbec9f8e2.png",
@@ -17,11 +17,11 @@
     "static/media/footer.png": "./static/media/footer.ca259114a57a8fae9380.png",
     "static/media/sword3.png": "./static/media/sword3.763477a2b91a344b0b9b.png",
     "index.html": "./index.html",
-    "main.4b5435e8.css.map": "./static/css/main.4b5435e8.css.map",
-    "main.92af9978.js.map": "./static/js/main.92af9978.js.map"
+    "main.97683599.css.map": "./static/css/main.97683599.css.map",
+    "main.9cd0d251.js.map": "./static/js/main.9cd0d251.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b5435e8.css",
-    "static/js/main.92af9978.js"
+    "static/css/main.97683599.css",
+    "static/js/main.9cd0d251.js"
   ]
 }
