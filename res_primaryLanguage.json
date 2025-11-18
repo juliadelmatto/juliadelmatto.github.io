@@ -1,0 +1,234 @@
+{
+    "basic_info": {
+      "description_header": "Hi! I'm Julia Del Matto —",
+      "description": "a UI designer, artist, and developer based in New York. For the past four years, I've worked with various indie developers to bring ideas to life through creative and thoughtful design, art, and code.",
+      "description_extra": "I love indie games, collage, typography, cinema, surrealism, horror, rats, bouldering, sewing, metalsmithing, and crocheting. I'm always excited to create something new, learn new technology, and solve creative problems.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Games",
+        "skills": "Skills",
+        "experience": "Experience"
+        
+      }
+    },
+    "projects": [
+      {
+        "title": "Entropy Survivors",
+        "startDate": "2024",
+        "description": "Entropy Survivors is a bullet hell roguelike where you simultaneously control a powerful mech and a sharpshooting space frog, featuring outrageously creative abilities and powerful weapon customization. Save the universe in single player or 2-4 player online co-op!",
+        "description_extra": "I worked on this project from start to finish leading the design and implementation of UI systems. I made all the menus for the game as well as additional art assets and illustrations. ",
+
+        "images": [
+          "images/portfolio/entropy/entropy.png",
+          "images/portfolio/entropy/World_2.gif",
+          "images/portfolio/entropy/ent3.jpg",
+           "images/portfolio/entropy/ent4.jpg",
+            "images/portfolio/entropy/ent6.jpg",
+             "images/portfolio/entropy/ent7.jpg",
+              "images/portfolio/entropy/ent8.jpg"
+        ],
+        "url": "https://www.movingpieces.io/entropy-survivors",
+        "technologies": [
+          {
+            "class": "devicon-unrealengine-plain",
+            "name": "Unreal Engine"
+          },
+          {
+            "class": "devicon-windows11-original",
+            "name": "Windows"
+          },
+           {
+            "class": "fab fa-xbox",
+            "name": "Xbox"
+          },
+           {
+            "class": "fab fa-playstation",
+            "name": "PlayStation"
+          },
+           {
+            "class": "fas fa-users",
+            "name": "Multiplayer"
+          }
+        ]
+      },
+      {
+        "title": "Shoulders of Giants",
+        "startDate": "2024",
+        "description": "Simultaneously control a sword-wielding robot and a gunslinging space frog in Shoulders of Giants, an explosively colourful sci-fi roguelike. Play alone, with a friend, or as part of a four-person team, cutting through waves of enemies on a quest to rescue the galaxy!",
+        "description_extra": "I worked on the UI for Shoulders of Giants, creating and implementing art and additional illustrations. I also assisted with game design and QA",
+        "images": [
+          "images/portfolio/shoulders/shoulders.jpg",
+          "images/portfolio/shoulders/ss.gif",
+          "images/portfolio/shoulders/sh1.jpg",
+           "images/portfolio/shoulders/sh3.jpg",
+            "images/portfolio/shoulders/sh4.jpg",
+             "images/portfolio/shoulders/sh5.jpg",
+              "images/portfolio/shoulders/sh6.jpg"
+        ],
+        "url": "https://www.movingpieces.io/sog",
+        "technologies": [
+          {
+            "class": "devicon-unrealengine-plain",
+            "name": "Unreal Engine"
+          },
+          {
+            "class": "devicon-windows11-original",
+            "name": "Windows"
+          },
+           {
+            "class": "fab fa-xbox",
+            "name": "Xbox"
+          },
+           {
+            "class": "fab fa-playstation",
+            "name": "PlayStation"
+          },
+           {
+            "class": "fas fa-users",
+            "name": "Multiplayer"
+          }
+        ]
+      },{
+        "title": "Dodo Peak",
+        "startDate": "2023",
+        "description": "Dodo Peak is a throwback to the classic arcade platformers of the past with a modern twist. Play as a dodo bird to find and rescue your lost babies from a series of dangerous peaks.",
+        "description_extra": "I lead the redesign of Dodo Peak from mobile to PC, upgrading and improving UI and HUD elements.",
+        "images": [
+          "images/portfolio/dodo/dodo.png",
+          "images/portfolio/dodo/dd1.jpg",
+           "images/portfolio/dodo/dd2.jpg",
+            "images/portfolio/dodo/dd3.jpg",
+             "images/portfolio/dodo/dd4.jpg"
+        ],
+        "url": "https://www.movingpieces.io/dodo-peak",
+        "technologies": [
+          {
+            "class": "devicon-unrealengine-plain",
+            "name": "Unreal Engine"
+          },
+          {
+            "class": "devicon-windows11-original",
+            "name": "Windows"
+          },
+          {
+            "image": "images/portfolio/switch.png",
+            "name": "Switch"
+          }
+        ]
+      },{
+        "title": "Eclectic Guests",
+        "startDate": "2022",
+        "description": "Eclectic Guests is an experimental narrative puzzle game about exploring a surreal hotel made from hand crafted paper cutouts. Wander through the hotel while solving parallax puzzles and meeting strange guests. Eclectic Guests is an abstract game that explores the subconscious, the temporariness of living spaces, and restless thoughts.",
+        "description_extra": "I worked on this game as a solo project for my capstone at NYU in 2020, and continued working on it until 2022. I've continued working on art for the game since, and am planning on releaseing a full 78 card tarot deck early 2026!",
+        "images": [
+          "images/portfolio/guests/guests2.png",
+          "images/portfolio/guests/guests.gif",
+          "images/portfolio/guests/curt.png",
+          "images/portfolio/guests/ec3.png",
+          "images/portfolio/guests/space2.png",
+          "images/portfolio/guests/blankr.png",
+          "images/portfolio/guests/dark.png"
+        ],
+        "url": "https://juliadelmatto.itch.io/eclectic-guests",
+        "technologies": [
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          },
+          {
+            "image": "images/portfolio/mac.png",
+            "name": "MacOS"
+          },{
+            "class": "devicon-windows11-original",
+            "name": "Windows"
+          }
+        ]
+      },
+      {
+        "title": "Swordswallower",
+        "startDate": "2021",
+        "description": "SWORDSWALLOWER is a psych-goth action platformer where you'll traverse and fight only by throwing a massive enchanted sword. Instead of jumping, you hurl your sword into the environment and pull yourself toward it with deadly speed. Using this weapon, you'll explore labyrinthine, dreamlike metroidvania levels and go toe-to-toe with ferocious opponents.",
+        "description_extra": "I worked on Swordswallower with a teammate in the NYU 2020 Incubator Program. We were funded and provided support to prepare to finish and publish the game. I did all the art and visual design for this project. Swordswallower game has been showcased in Indiecade and PlayNYC and is the #1 highest rated Metroidvania on itch.io with over 4k downloads.",
+        "images": [
+          "images/portfolio/swordswallower/swsw2.png",
+          "images/portfolio/swordswallower/swsw.gif",
+          "images/portfolio/swordswallower/ss3.jpg",
+          "images/portfolio/swordswallower/ss4.jpg",
+          "images/portfolio/swordswallower/ss5.jpg",
+          "images/portfolio/swordswallower/ss6.jpg"
+        ],
+        "url": "https://utiazulay.itch.io/swordswallower",
+        "technologies": [
+          {
+            "image": "images/portfolio/gamemaker.png",
+            "name": "GameMaker"
+          },
+          {
+            "class": "devicon-windows11-original",
+            "name": "Windows"
+          }
+        ]
+      },{
+        "title": "Pico 8 Prototypes",
+        "startDate": "2020",
+        "description": "While studying at NYU, I took a class where I made a single game prototype each week for eight weeks using Pico 8 ",
+        "description_extra": "",
+        "images": [
+          "images/portfolio/pico/pico.png",
+          "images/portfolio/pico/articulate.gif",
+          "images/portfolio/pico/doors.gif",
+          "images/portfolio/pico/swimming.gif", 
+          "images/portfolio/pico/eyegame.gif",
+          "images/portfolio/pico/goats.gif"
+          
+        ],
+        "url": "https://juliadelmatto.itch.io/",
+        "technologies": [
+          {
+            "class": "devicon-lua-plain",
+            "name": "Lua"
+          },
+          {
+            "class": "fas fa-laptop",
+            "name": "Browser Games"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }

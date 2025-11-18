@@ -1,0 +1,89 @@
+{
+    "basic_info": {
+      "name": "Julia Del Matto",
+      "titles": [ "Game Developer", "UI Artist", "2D Artist"],
+      "social": [
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/juliadelmatto/",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/julia-del-matto-67356919a/",
+          "class": "fab fa-linkedin"
+        }
+
+          
+        
+      ],
+      "image": "profilePic.png",
+      "email": "juliaddelmatto@gmail.com"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Unity",
+          "class": "devicon-unity-plain",
+          "level": "95"
+        },
+        {
+          "name": "Unreal",
+          "class": "devicon-unrealengine-plain",
+          "level": "95"
+        },{
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain",
+          "level": "80"
+        },
+        {
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": "80"
+        },{
+          "name": "Indesign",
+          "class": "fas fa-edit",
+          "level": "80"
+        },{
+          "name": "After Effects",
+          "class": "devicon-aftereffects-plain",
+          "level": "80"
+        },
+        {
+          "name": "Substance",
+          "class": "fas fa-paint-brush",
+          "level": "80"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "90"
+        },
+        {
+          "name": "Sketch",
+          "class": "devicon-sketch-plain",
+          "level": "70"
+        },
+        {
+          "name": "Maya",
+          "class": "devicon-maya-plain",
+          "level": "75"
+        },
+        {
+          "name": "Jira",
+          "class": "devicon-jira-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "Javascript",
+          "class": "devicon-javascript-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
