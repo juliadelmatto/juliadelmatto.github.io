@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.97683599.css",
-    "main.js": "./static/js/main.9cd0d251.js",
+    "main.css": "./static/css/main.0249da66.css",
+    "main.js": "./static/js/main.51b5c8dc.js",
     "static/media/tvgif2.gif": "./static/media/tvgif2.d60dcb83fd1048d95f94.gif",
-    "static/media/pageofPentacles.png": "./static/media/pageofPentacles.89094a56491bf0602df9.png",
     "static/media/cups66.png": "./static/media/cups66.4f6fcbeba15fbec9f8e2.png",
-    "static/media/hierophant7.png": "./static/media/hierophant7.98cf013ca9af9adf49df.png",
+    "static/media/moon.png": "./static/media/moon.5df73fde63f453ee4b07.png",
     "static/media/swords10.png": "./static/media/swords10.3670c2de33e54471613f.png",
-    "static/media/pentacles2.png": "./static/media/pentacles2.74967acc7ac749cc7448.png",
+    "static/media/fivePentacles.png": "./static/media/fivePentacles.1a84e4b708830594de28.png",
+    "static/media/kingPentacles.png": "./static/media/kingPentacles.d14f7eb4eb520485c515.png",
+    "static/media/justice.png": "./static/media/justice.b6f65a73d76a6958e22b.png",
+    "static/media/swords9BIG.png": "./static/media/swords9BIG.44ab9ac291547d0e623e.png",
+    "static/media/deathNEW.png": "./static/media/deathNEW.2f1e4f3e60e94ffbbd68.png",
     "static/media/kingCups.png": "./static/media/kingCups.4111117ba18d5b3d90a9.png",
-    "static/media/deathNEW.png": "./static/media/deathNEW.e574344faa53851cb53a.png",
-    "static/media/chariot2.png": "./static/media/chariot2.29990021d8318b2982d4.png",
-    "static/media/pentacles7.png": "./static/media/pentacles7.6ae1947518b8105dae78.png",
-    "static/media/judgement.png": "./static/media/judgement.385b1a039e60581edcf4.png",
-    "static/media/pageofWands4.png": "./static/media/pageofWands4.cc6a2a26ffa660d8ff8b.png",
+    "static/media/judgement.png": "./static/media/judgement.0ee613f69733eca74f44.png",
+    "static/media/swords8.png": "./static/media/swords8.b7685a666f3e7a0bb9b7.png",
     "static/media/footer.png": "./static/media/footer.ca259114a57a8fae9380.png",
-    "static/media/sword3.png": "./static/media/sword3.763477a2b91a344b0b9b.png",
+    "static/media/JuliaDelMattoResume.pdf": "./static/media/JuliaDelMattoResume.44d316bf07ca617ac3fa.pdf",
     "index.html": "./index.html",
-    "main.97683599.css.map": "./static/css/main.97683599.css.map",
-    "main.9cd0d251.js.map": "./static/js/main.9cd0d251.js.map"
+    "main.0249da66.css.map": "./static/css/main.0249da66.css.map",
+    "main.51b5c8dc.js.map": "./static/js/main.51b5c8dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.97683599.css",
-    "static/js/main.9cd0d251.js"
+    "static/css/main.0249da66.css",
+    "static/js/main.51b5c8dc.js"
   ]
 }
