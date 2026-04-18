@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi! I'm Julia Del Matto —",
-      "description": "a UI designer, artist, and developer based in New York. For the past four years, I've worked with various indie developers to bring ideas to life through creative and thoughtful design, art, and code.",
+      "description": "a UI designer, artist, and game developer based in New York. For the past four years, I've worked with various indie developers to bring ideas to life through creative and thoughtful design, art, and code.",
       "description_extra": "I love indie games, collage, typography, color theory, cinema, surrealism, horror, rats, bouldering, sewing, metalsmithing, and crocheting. I'm always excited to create something new, learn new technology, and solve design problems.",
       "section_name": {
         "about": "About me",
@@ -16,7 +16,7 @@
         "title": "Entropy Survivors",
         "startDate": "2024",
         "description": "Entropy Survivors is a bullet hell roguelike where you simultaneously control a powerful mech and a sharpshooting space frog, featuring outrageously creative abilities and powerful weapon customization. Save the universe in single player or 2-4 player online co-op!",
-        "description_extra": "I worked on this project from start to finish leading the design and implementation of UI systems. I made all the menus for the game as well as additional art assets and illustrations. dkjl",
+        "description_extra": "I worked on this project from start to finish leading the design and implementation of UI systems. I made all the menus for the game as well as additional art assets and illustrations. ",
 
         "images": [
           "images/portfolio/entropy/entropy.png",
