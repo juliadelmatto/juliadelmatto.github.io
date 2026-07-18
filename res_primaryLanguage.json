@@ -46,7 +46,7 @@
       "startDate": "2025",
       "description": "Entropy Survivors is a bullet hell roguelike where you simultaneously control a powerful mech and a sharpshooting space frog, featuring outrageously creative abilities and powerful weapon customization. Save the universe in single player or 2-4 player online co-op!",
       "description_extra": "I worked on this project from start to finish, including: ",
-      "description_bulletList": ["From start to finish leading the design and implementation of UI systems.","Programming and designing all menus as well as creating additional 2D and 3D art assets and illustrations.","Designing and implementing visuals for new weapons and power ups","Creating and designing customizable character outfits and materials.","Designing and implementing in game seasonal events, including menu art and in world visuals."
+      "description_bulletList": ["Leading the design and implementation of UI systems.","Programming and designing all menus as well as creating additional 2D and 3D art assets and illustrations.","Designing and implementing visuals for new weapons and power ups","Creating and designing customizable character outfits and materials.","Designing and implementing in game seasonal events, including menu art and in world visuals."
 ],
       
       "images": [
