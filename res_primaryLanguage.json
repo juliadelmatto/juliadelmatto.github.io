@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi! I'm Julia Del Matto —",
-    "description": "a UI designer, game developer, and artist based in Brooklyn,New York. For the past four years, I've worked with various indie developers to bring ideas to life through creative and thoughtful design, art, and code.",
+    "description": "a UI designer, game developer, and artist based in Brooklyn, New York. For the past six years, I've worked with various indie developers to bring ideas to life through creative and thoughtful design, art, and code.",
     "description_extra": "I love indie games, collage, typography, color theory, cinema, surrealism, horror, rats, bouldering, sewing, metalsmithing, and crocheting. I'm always excited to create something new, learn new technology, and solve design problems.",
     "section_name": {
       "about": "About me",
@@ -12,19 +12,19 @@
   },
   "projects": [
     {
-      "title": "Unannounced Project",
-      "startDate": "2025",
-      "description": "Currently working on an unannounced project with Moving Pieces, more details coming soon!",
-      "description_extra": "I've been working on this project for the last year on a small team as a lead designer and developer. Work includes:",
+      "title": "Pipes.Exe",
+      "startDate": "2026",
+      "description": "Currently working on game with Moving Pieces, more details coming soon!",
+      "description_extra": "I've been working on this project for the last year on a small team as a designer and developer. Work includes:",
       "description_bulletList": [
-  "Leading the design and implementation of all menus and in game UI including the in game HUD, settings menus, and game creation and result menus as well as all in game screens and info.",
-  "Helping program and design core game mechanics, implementing various multiplayer mechanics and network communication",
-  "Designing levels and prototyping and implementing game mechanics","Designing outfits, 3D Modeling and texturing for character customization.","Creating materials and shaders for environments","Designing and programming online multiplayer minigame","Testing and fixing multiplayer, UI, and gameplay bugs"
+  
+"Leading design and implementation of UI systems including all menus and in game text and HUD. Worked with developers to conceptualize game narrative and style to create menus and cohesive player experience through UI.",
+  "Designing and implementing visuals for new game modes, minigames, and level progression.","Designing outfits, 3D Modeling and texturing for character customization.","Creating scenery objects, materials, textures, and shaders for environments and hub world.","Developed in game matchmaking and online Steam multiplayer.", "Developed and implemented minigame.","Testing and fixing multiplayer, UI, and gameplay bugs."
 ],
       "images": [
-        "images/portfolio/pipes/unannounced.png"
+         "images/portfolio/pipes/title.jpg"
       ],
-      "url": "https://www.movingpieces.io/entropy-survivors",
+      "url": "https://store.steampowered.com/app/3688240/Pipesexe/",
       "technologies": [
         {
           "class": "devicon-unrealengine-plain",
@@ -43,10 +43,10 @@
     },
     {
       "title": "Entropy Survivors",
-      "startDate": "2024",
+      "startDate": "2025",
       "description": "Entropy Survivors is a bullet hell roguelike where you simultaneously control a powerful mech and a sharpshooting space frog, featuring outrageously creative abilities and powerful weapon customization. Save the universe in single player or 2-4 player online co-op!",
       "description_extra": "I worked on this project from start to finish, including: ",
-      "description_bulletList": ["From start to finish leading the design and implementation of UI systems.","Programming and designed all menus as well as creating additional 2D and 3D art assets and illustrations.","Helping prototype and implement new game mechanics and fine tuned game balancing.","Designing and implementing new weapons and power up mechanics.","Creating and designing customizable character outfits and materials.","Designing and implementing in game seasonal events, including menu art and in world visuals."
+      "description_bulletList": ["From start to finish leading the design and implementation of UI systems.","Programming and designing all menus as well as creating additional 2D and 3D art assets and illustrations.","Designing and implementing visuals for new weapons and power ups","Creating and designing customizable character outfits and materials.","Designing and implementing in game seasonal events, including menu art and in world visuals."
 ],
       
       "images": [
